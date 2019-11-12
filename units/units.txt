@@ -1,0 +1,249 @@
+    extra_defines: a comma(,) separated list of preprocessor symbols. Those symbols will be defined before any .cfg is preprocessed. Currently supported extra_defines are:
+
+[campaign]
+	extra_defines=ENABLE_ARMAGEDDON_DRAKE,ENABLE_DWARVISH_ARCANISTER,ENABLE_DWARVISH_RUNESMITH,ENABLE_ANCIENT_LICH,ENABLE_DEATH_KNIGHT,ENABLE_TROLL_SHAMAN,ENABLE_WOLF_ADVANCEMENT,ENABLE_NIGHTBLADE
+[/campaign]
+
+    ENABLE_ARMAGEDDON_DRAKE
+        allows the advancement Inferno Drake -> Armageddon Drake
+    ENABLE_DWARVISH_ARCANISTER
+        allows the advancement Dwarvish Runemaster -> Dwarvish Arcanister
+    ENABLE_DWARVISH_RUNESMITH
+        allows the advancement Dwarvish Fighter -> Dwarvish Runesmith
+    DISABLE_GRAND_MARSHAL
+        disallows the advancement General -> Grand Marshal
+    ENABLE_ANCIENT_LICH
+        allows the advancement Lich -> Ancient Lich
+    ENABLE_DEATH_KNIGHT
+        allows the advancement Revenant -> Death Knight'
+    ENABLE_TROLL_SHAMAN
+        allows the advancement Troll Whelp -> Troll Shaman
+    ENABLE_WOLF_ADVANCEMENT
+        allows the advancements Wolf -> Great Wolf -> Direwolf
+    ENABLE_NIGHTBLADE (Version 1.13.0 and later only)
+        allows the advancement Orcish Slayer -> Orcish Nightblade
+
+    ENABLE_PARAGON (Version 1.15.1 and later only)
+        allows the advancement Dune Blademaster -> Dune Paragon
+    ENABLE_WOSE_SHAMAN (Version 1.15.1 and later only)
+        allows the advancement Wose -> Wose Shaman
+
+
+
+
+
+
+Bats
+	Level 0
+		Vampire Bat
+	Level 1
+		Blood Bat
+
+Drakes
+	Level 1
+		Drake Burner
+		Drake Clasher
+		Drake Fighter
+		Drake Glider
+	#Level 4
+	#	Armageddon Drake
+
+Dunefolk
+	Level 1
+		Dune Burner
+		Dune Herbalist
+		Dune Piercer
+		Dune Rider
+		Dune Rover
+		Dune Soldier
+	Level 4
+		Dune Warmaster
+		
+
+Dwarves
+	Level 1
+		Dwarvish Fighter
+		Dwarvish Guardsman
+		Dwarvish Scout
+		Dwarvish Thunderer
+		Dwarvish Ulfserker
+	#Level 2
+	#	Dwarvish Runesmith
+	#Level 4
+	#	Dwarvish Arcanister
+
+Elves
+	Level 1
+		Elvish Archer
+		Elvish Fighter
+		Elvish Scout
+		Elvish Shaman
+	Level 2
+		Elvish Lord
+	Level 3
+		Elvish Lady (NO ATTACKS)
+
+Falcons
+	Level 0
+		Falcon
+	Level 1
+		Elder Falcon
+		
+
+Goblins
+	Level 0
+		Goblin Spearman
+	Level 1
+		Goblin Impaler
+		Goblin Rouser
+
+Gryphons
+	Level 1
+		Gryphon Rider
+	Level 2
+		Gryphon
+
+
+Humans
+	Level 0
+		Peasant
+		Ruffian
+		Woodsman
+	Level 1
+		Bowman
+		Cavalryman
+		Dark Adept
+		Fencer
+		Footpad
+		Heavy Infantryman
+		Horseman
+		Mage
+		Poacher
+		Sergeant
+		Spearman
+		Thief
+		Thug
+	Level 3
+		Royal Warrior
+	Level 5
+		Elder Mage
+
+
+Mechanical
+	Level 1
+		Pirate Galleon
+		Transport Galleon
+
+Merfolk
+	Level 1
+		Mermaid Initiate
+		Mermaid Fighter
+		Mermaid Hunter
+
+Monsters
+	Level 0
+		Giant Rat
+		Giant Scorpling
+		Mudcrawler
+	Level 1
+		Fire Guardian
+		Giant Mudcrawler
+		Giant Scorpion
+		Tentacle of the Deep
+	Level 2
+		Cuttle Fish
+		Water Serpent
+	Level 3
+		Giant Spider
+		Sea Serpent
+	Level 4
+		Yeti
+	Level 5
+		Fire Dragon
+
+Nagas
+	Level 1
+		Naga Fighter
+
+
+Ogres
+	Level 1
+		Young Ogre
+
+
+Orcs
+	Level 1
+		Orcish Archer
+		Orcish Assassin
+		Orcish Grunt
+		Orcish Leader
+	#Level 3
+	#	Orcish Nightblade
+
+
+Saurians
+	Level 1
+		Saurian Augur
+		Saurian Skirmisher
+
+
+Trolls
+	Level 1
+		Troll Whelp
+	Level 2
+		Troll Hero
+		Troll Shaman
+
+Wolves
+	Level 1
+		Wolf
+		Wolf Rider
+	Level 2
+		Great Wolf
+	Level 3
+		Direwolf
+
+
+Woses
+	Level 1
+		Wose
+
+
+Undead
+	Level 0
+		Walking Corpse
+		Walking Corpse Bat
+		Walking Corpse Drake
+		Walking Corpse Dwarf
+		Walking Corpse Goblin
+		Walking Corpse Gryphon
+		Walking Corpse Mounted
+		Walking Corpse Saurian
+		Walking Corpse Swimmer
+		Walking Corpse Troll
+		Walking Corpse Wolf
+		Walking Corpse Wose
+	Level 1
+		Soulless
+		Soulless Bat
+		Soulless Drake
+		Soulless Dwarf
+		Soulless Goblin
+		Soulless Gryphon
+		Soulless Mounted
+		Soulless Saurian
+		Soulless Swimmer
+		Soulless Troll
+		Soulless Wolf
+		Soulless Wose
+		Ghost
+		Ghoul
+		Skeleton
+		Skeleton Archer
+	Level 2
+		Chocobone
+	#Level 3
+	#	Death Knight
+	Level 4
+	#	Ancient Lich
+		Skeletal Dragon

@@ -1,0 +1,156 @@
+Bandit
+Blood Bat
+Boat
+Bone Shooter
+Bowman
+Cavalryman
+Chocobone
+Cuttle Fish
+Dark Adept
+Dark Sorcerer
+Deathblade
+Dragoon
+Drake Arbiter
+Drake Burner
+Drake Clasher
+Drake Fighter
+Drake Flare
+Drake Glider
+Drake Thrasher
+Drake Warrior
+Dread Bat
+Duelist
+Dune Apothecary
+Dune Burner
+Dune Explorer
+Dune Herbalist
+Dune Piercer
+Dune Raider
+Dune Rider
+Dune Rover
+Dune Scorcher
+Dune Skirmisher
+Dune Soldier
+Dune Spearguard
+Dune Sunderer
+Dune Swiftrider
+Dune Swordsman
+Dwarvish Berserker
+Dwarvish Fighter
+Dwarvish Guardsman
+Dwarvish Pathfinder
+Dwarvish Runesmith
+Dwarvish Scout
+Dwarvish Stalwart
+Dwarvish Steelclad
+Dwarvish Thunderer
+Dwarvish Thunderguard
+Dwarvish Ulfserker
+Elder Falcon
+Elder Wose
+Elvish Archer
+Elvish Captain
+Elvish Druid
+Elvish Fighter
+Elvish Hero
+Elvish Lord
+Elvish Marksman
+Elvish Ranger
+Elvish Rider
+Elvish Scout
+Elvish Shaman
+Elvish Sorceress
+Falcon
+Fencer
+Fire Drake
+Fire Guardian
+Fog Clearer
+Footpad
+Galleon
+Ghost
+Ghoul
+Giant Mudcrawler
+Giant Rat
+Giant Scorpion
+Giant Scorpling
+Goblin Impaler
+Goblin Knight
+Goblin Pillager
+Goblin Rouser
+Goblin Spearman
+Great Wolf
+Gryphon
+Gryphon Master
+Gryphon Rider
+Heavy Infantryman
+Horseman
+Javelineer
+Knight
+Lancer
+Lieutenant
+Longbowman
+Mage
+Mermaid Enchantress
+Mermaid Initiate
+Mermaid Priestess
+Merman Fighter
+Merman Hunter
+Merman Netcaster
+Merman Spearman
+Merman Warrior
+Mudcrawler
+Naga Fighter
+Naga Warrior
+Necrophage
+Ogre
+Orcish Archer
+Orcish Assassin
+Orcish Crossbowman
+Orcish Grunt
+Orcish Leader
+Orcish Ruler
+Orcish Slayer
+Orcish Warrior
+Outlaw
+Peasant
+Pikeman
+Pirate Galleon
+Poacher
+Red Mage
+Revenant
+Rogue
+Ruffian
+Saurian Ambusher
+Saurian Augur
+Saurian Oracle
+Saurian Skirmisher
+Saurian Soothsayer
+Sergeant
+Shadow
+Shock Trooper
+Skeleton
+Skeleton Archer
+Sky Drake
+Soulless
+Spearman
+Swordsman
+Tentacle of the Deep
+Thief
+Thug
+Transport Galleon
+Trapper
+Troll
+Troll Hero
+Troll Rocklobber
+Troll Shaman
+Troll Whelp
+Vampire Bat
+Walking Corpse
+Water Serpent
+White Mage
+Wolf
+Wolf Rider
+Woodsman
+Wose
+Wraith
+Young Ogre
