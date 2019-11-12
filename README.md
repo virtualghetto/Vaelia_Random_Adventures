@@ -1,3 +1,4 @@
 # Vaelia Random Adventures
 
-Single player campaign for wesnoth.
+Wesnoth UMC add-on.
+A single player campaign for wesnoth.
