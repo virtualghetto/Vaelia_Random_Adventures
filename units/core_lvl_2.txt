@@ -1,0 +1,80 @@
+Dread Bat
+Drake Arbiter
+Fire Drake
+Drake Flare
+Sky Drake
+Drake Thrasher
+Drake Warrior
+Dune Apothecary
+Dune Explorer
+Dune Raider
+Dune Scorcher
+Dune Skirmisher
+Dune Spearguard
+Dune Sunderer
+Dune Swiftrider
+Dune Swordsman
+Dwarvish Berserker
+Dwarvish Pathfinder
+Dwarvish Runesmith
+Dwarvish Stalwart
+Dwarvish Steelclad
+Dwarvish Thunderguard
+Elvish Captain
+Elvish Druid
+Elvish Hero
+Elvish Lord
+Elvish Marksman
+Elvish Ranger
+Elvish Rider
+Elvish Sorceress
+Goblin Knight
+Goblin Pillager
+Gryphon
+Gryphon Master
+Knight
+Lancer
+Dragoon
+Duelist
+Javelineer
+Lieutenant
+Longbowman
+Pikeman
+Shock Trooper
+Swordsman
+Red Mage
+White Mage
+Outlaw
+Bandit
+Rogue
+Trapper
+Mermaid Enchantress
+Merman Netcaster
+Mermaid Priestess
+Merman Spearman
+Merman Warrior
+Cuttle Fish
+Water Serpent
+Great Wolf
+Naga Warrior
+Ogre
+Orcish Crossbowman
+Orcish Ruler
+Orcish Slayer
+Orcish Warrior
+Saurian Ambusher
+Saurian Oracle
+Saurian Soothsayer
+Troll Hero
+Troll Rocklobber
+Troll
+Troll Shaman
+Necrophage
+Dark Sorcerer
+Bone Shooter
+Chocobone
+Deathblade
+Revenant
+Shadow
+Wraith
+Elder Wose

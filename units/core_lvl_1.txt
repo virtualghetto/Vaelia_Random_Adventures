@@ -1,0 +1,60 @@
+Blood Bat
+Drake Burner
+Drake Clasher
+Drake Fighter
+Drake Glider
+Dune Burner
+Elder Falcon
+Dune Herbalist
+Dune Piercer
+Dune Rider
+Dune Rover
+Dune Soldier
+Dwarvish Fighter
+Dwarvish Guardsman
+Dwarvish Scout
+Dwarvish Thunderer
+Dwarvish Ulfserker
+Elvish Archer
+Elvish Fighter
+Elvish Scout
+Elvish Shaman
+Goblin Impaler
+Goblin Rouser
+Wolf Rider
+Gryphon Rider
+Horseman
+Bowman
+Cavalryman
+Fencer
+Heavy Infantryman
+Sergeant
+Spearman
+Mage
+Footpad
+Thief
+Thug
+Poacher
+Merman Fighter
+Merman Hunter
+Mermaid Initiate
+Fire Guardian
+Giant Mudcrawler
+Giant Scorpion
+Wolf
+Naga Fighter
+Young Ogre
+Orcish Archer
+Orcish Assassin
+Orcish Grunt
+Orcish Leader
+Saurian Augur
+Saurian Skirmisher
+Troll Whelp
+Ghoul
+Soulless
+Dark Adept
+Skeleton
+Skeleton Archer
+Ghost
+Wose
