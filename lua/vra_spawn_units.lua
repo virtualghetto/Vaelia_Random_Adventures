@@ -14,8 +14,8 @@ function wml_actions.spawn_units(cfg)
 
 	local done = 0
 	for i=1,count do
-		local locs = wesnoth.get_locations({T["not"] { T.filter {} } , terrain = '!,Qxu,Qxe,Qxua,Ql,Qlf,Mv,Mm^Xm,Md^Xm,Ms^Xm,Mdd^Xm,Xu,Xuc,Xue,Xos,Xom,Xoi,Xoc,Xv' , T["and"] { x = x, y = y, radius = 1, include_borders = false } })
-		if #locs == 0 then locs = wesnoth.get_locations({T["not"] { T.filter {} } , terrain = '!,Qxu,Qxe,Qxua,Ql,Qlf,Mv,Mm^Xm,Md^Xm,Ms^Xm,Mdd^Xm,Xu,Xuc,Xue,Xos,Xom,Xoi,Xoc,Xv' , T["and"] { x = x, y = y, radius = 2, include_borders = false } }) end
+		local locs = wesnoth.get_locations({T["not"] { T.filter {} } , terrain = '!,Qxu,Qxe,Qxua,Ql,Qlf,Mv,Mm^Xm,Md^Xm,Ms^Xm,Mdd^Xm,Xu,Xuc,Xue,Xos,Xom,Xoi,Xoc,Xv,Wo' , T["and"] { x = x, y = y, radius = 1, include_borders = false } })
+		if #locs == 0 then locs = wesnoth.get_locations({T["not"] { T.filter {} } , terrain = '!,Qxu,Qxe,Qxua,Ql,Qlf,Mv,Mm^Xm,Md^Xm,Ms^Xm,Mdd^Xm,Xu,Xuc,Xue,Xos,Xom,Xoi,Xoc,Xv,Wo' , T["and"] { x = x, y = y, radius = 2, include_borders = false } }) end
 		if #locs == 0 then break end
 
 		done = done + 1
