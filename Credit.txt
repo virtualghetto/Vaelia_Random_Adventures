@@ -13,8 +13,10 @@ Code and ideas came from here: Much love to you!
 # Credit: wesnoth/1.14/data/multiplayer/scenarios/Random_Scenario_Desert.cfg
 # Credit: wesnoth/1.14/data/multiplayer/scenarios/Random_Scenario_Marsh.cfg
 # Credit: wesnoth/1.14/data/multiplayer/scenarios/Random_Scenario_Winter.cfg
+# Credit: wesnoth-1.14/data/add-ons/Cities_of_the_Frontier/utils/map_generation.cfg
 
 Some ideas and hints came from these sources. I don't think I copied any of their code.
 # Credit: wesnoth-1.14/data/add-ons/Bad_Moon_Rising/utils/skirmish.cfg
-# Credit: wesnoth-1.14/data/add-ons/Cities_of_the_Frontier/utils/map_generation.cfg
 # Credit: wesnoth-1.14/data/add-ons/World_Conquest_II/utils/map/generator
+# Credit: wesnoth-1.14/data/add-ons/Half_Civ
+# Credit: wesnoth-1.14/data/add-ons/Q_Civ
