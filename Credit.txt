@@ -8,6 +8,8 @@ Code and ideas came from here: Much love to you!
 # Credit: wesnoth/1.14/data/campaigns/Sceptre_of_Fire/scenarios/4_Gathering_Materials.cfg
 # Credit: wesnoth/1.14/data/campaigns/The_Hammer_of_Thursagan/lua/spawns.lua
 # Credit: wesnoth/1.14/data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Invaders.cfg
+# Credit: wesnoth/1.14/data/campaigns/Under_the_Burning_Suns
+# Credit: wesnoth/1.14/data/campaigns/Secrets_of_the_Ancients
 # Credit: wesnoth/1.14/data/core/macros
 # Credit: wesnoth/1.14/data/multiplayer/scenarios/Random_Scenario.cfg
 # Credit: wesnoth/1.14/data/multiplayer/scenarios/Random_Scenario_Desert.cfg
