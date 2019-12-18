@@ -11,7 +11,7 @@ tags="VRA,RC,URM,WCII"
 title="Vaelia Random Adventures"
 translate=true
 type="campaign"
-version="1.0.6"
+version="1.0.7"
 [feedback]
 	topic_id=51249
 [/feedback]
