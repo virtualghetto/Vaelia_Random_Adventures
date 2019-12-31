@@ -20,6 +20,7 @@ Code and ideas came from here: Much love to you!
 # Credit: wesnoth-1.14/data/add-ons/World_Conquest_II/utils/map/*
 # Credit: wesnoth-1.14/data/add-ons/WML_Guide
 # Credit: wesnoth-1.14/data/add-ons/Wings_of_Victory/scenarios/03_The_Contention.cfg
+# Credit: wesnoth-1.14/data/add-ons/Genesis
 
 Some ideas and hints came from these sources. I don't think I copied any of their code.
 # Credit: wesnoth-1.14/data/add-ons/Bad_Moon_Rising/utils/skirmish.cfg
